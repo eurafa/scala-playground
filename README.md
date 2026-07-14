@@ -70,4 +70,3 @@ scala-cli run 01-SyntaxBasics.scala
 8. **Monadic composition**: `flatMap` chains, `for`-comprehensions
 9. **Type classes**: Ad-hoc polymorphism via implicits/given
 10. **Effects**: `Option`, `Either`, `Try`, `Future`, `IO`
-# scala-playground
